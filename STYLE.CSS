@@ -1,0 +1,49 @@
+body {background-image:url('https://live.staticflickr.com/65535/52370714318_04e8c079e2.jpg')    ;
+background-size: cover;
+background-repeat: no-repeat;}
+
+  
+h1 {color:black;text-align:center;
+  background-color: white;
+  font-size:100px;
+  border:2px solid gray;
+  }
+.city {
+ background-color: #f1f1f1;
+ text-align:center;
+ padding: 10px;
+ font-size:80px;}
+
+.a {color: green;
+    text-align:center;
+    font-size:50px;}
+      
+h3 {color: tomato;
+    text-align:center;
+    font-size:50px;}
+    
+    a:link {
+color: pink;
+background-color: transparent;
+text-decoration: none;}
+a:visited {
+color: green;
+background-color: transparent;
+text-decoration: none;}
+
+a:hover {
+color: gray;
+background-color: transparent;
+text-decoration: underline;}
+
+a:active {
+color: yellow;
+background-color: transparent;
+text-decoration: underline;}
+footer 
+{background-color: aquamarine;}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
